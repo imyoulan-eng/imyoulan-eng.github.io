@@ -1,1 +1,1 @@
-console.log("My art website is working.");
+console.log("Παρακαλώ website is working.");
