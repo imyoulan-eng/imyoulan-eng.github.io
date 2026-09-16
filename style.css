@@ -16,8 +16,8 @@ h1 {
 
 main {
     display: flex;
-    gap: 50px;
-    padding: 60px;
+    gap: 100px;
+    padding: 70px;
     align-items: center;
 }
 
