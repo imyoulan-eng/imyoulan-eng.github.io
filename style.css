@@ -16,12 +16,12 @@ h1 {
 
 main {
     display: flex;
-    gap: 40px;
-    padding: 50px;
+    gap: 50px;
+    padding: 60px;
     align-items: center;
 }
 
 main img {
-    width: 200px;
+    width: 300px;
     height: auto;
 }
